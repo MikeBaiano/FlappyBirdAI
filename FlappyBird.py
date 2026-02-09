@@ -3,7 +3,7 @@ import os
 import random
 import neat
 
-ai_jogando = False
+ai_jogando = True
 geracao = 0
 
 TELA_LARGURA = 500
